@@ -404,8 +404,15 @@ function setupCounters() {
 
     function update(now) {
       const progress = Math.min((now - start) / duration, 1);
-      counter.textContent = Math.floor(progress * target).toLocaleString();
-      if (progress < 1) requestAnimationFrame(update);
+      const value = Math.floor(progress * target);
+
+      counter.textContent = value.toLocaleString();
+
+      if (progress < 1) {
+        requestAnimationFrame(update);
+      } else {
+        counter.textContent = target.toLocaleString() + "+";
+      }
     }
 
     requestAnimationFrame(update);
