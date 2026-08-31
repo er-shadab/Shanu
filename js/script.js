@@ -50,7 +50,7 @@
 const productItems = [
     {
     id: "Plastic",
-    image: "assets/products/plastic/plastic.svg",
+    image: "assets/products/plastic/Image11.jpg",
     images: [
       "assets/products/plastic/Image1.jpg",
       "assets/products/plastic/Image2.jpg",
@@ -86,7 +86,7 @@ const productItems = [
   },
   {
     id: "led",
-    image: "assets/products/led/led-letters.svg",
+    image: "assets/products/led/Image6.jpg",
     images: [
       "assets/products/led/Image1.jpg",
       "assets/products/led/Image2.jpg",
@@ -108,7 +108,7 @@ const productItems = [
   },
   {
     id: "steel",
-    image: "assets/products/stainless/stainless-letters.svg",
+    image: "assets/products/stainless/Image1.jpg",
     images: [
       "assets/products/stainless/Image1.jpg",
       "assets/products/stainless/Image2.jpg",
@@ -150,7 +150,7 @@ const productItems = [
   },
   {
     id: "zincor",
-    image: "assets/products/zincor/zincor-letters.svg",
+    image: "assets/products/zincor/Image17.jpg",
     images: [
       "assets/products/zincor/Image1.jpg",
       "assets/products/zincor/Image2.jpg",
@@ -205,7 +205,7 @@ const productItems = [
   },
   {
     id: "iron",
-    image: "assets/products/iron/iron-fabrication.svg",
+    image: "assets/products/iron/Image11.jpg",
     images: [
       "assets/products/iron/Image1.jpg",
       "assets/products/iron/Image2.jpg",
@@ -237,7 +237,7 @@ const productItems = [
   },
   {
     id: "acrylic",
-    image: "assets/products/acrylic/acrylic-board.svg",
+    image: "assets/products/acrylic/Image1.jpg",
     images: [
       "assets/products/acrylic/Image1.jpg",
       "assets/products/acrylic/Image2.jpg"
@@ -254,7 +254,7 @@ const productItems = [
   },
   {
     id: "shop",
-    image: "assets/products/shop-branding/shop-branding.svg",
+    image: "assets/products/shop-branding/Image17.jpg",
     images: [
       "assets/products/shop-branding/Image1.jpg",
       "assets/products/shop-branding/Image2.jpg",
