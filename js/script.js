@@ -279,6 +279,43 @@ const productItems = [
     nameKey: "productShopName",
     shortKey: "productShopShort",
     longKey: "productShopLong"
+  },
+  {
+    id: "SchoolAndCollege",
+    image: "assets/products/SchoolAndCollege/Image5.jpg",
+    images: [
+      "assets/products/SchoolAndCollege/Image1.jpg",
+      "assets/products/SchoolAndCollege/Image2.jpg",
+      "assets/products/SchoolAndCollege/Image3.jpg",
+      "assets/products/SchoolAndCollege/Image4.jpg",
+      "assets/products/SchoolAndCollege/Image5.jpg",
+      "assets/products/SchoolAndCollege/Image6.jpg",
+      "assets/products/SchoolAndCollege/Image7.jpg",
+      "assets/products/SchoolAndCollege/Image8.jpg",
+      "assets/products/SchoolAndCollege/Image9.jpg",
+      "assets/products/SchoolAndCollege/Image10.jpg",
+      "assets/products/SchoolAndCollege/Image11.jpg",
+      "assets/products/SchoolAndCollege/Image12.jpg",
+      "assets/products/SchoolAndCollege/Image13.jpg",
+      "assets/products/SchoolAndCollege/Image14.jpg",
+      "assets/products/SchoolAndCollege/Image15.jpg",
+      "assets/products/SchoolAndCollege/Image16.jpg",
+      "assets/products/SchoolAndCollege/Image17.jpg",
+      "assets/products/SchoolAndCollege/Image18.jpg",
+      "assets/products/SchoolAndCollege/Image19.jpg",
+      "assets/products/SchoolAndCollege/Image20.jpg",
+      "assets/products/SchoolAndCollege/Image21.jpg",
+      "assets/products/SchoolAndCollege/Image22.jpg",
+      "assets/products/SchoolAndCollege/Image23.jpg",
+      "assets/products/SchoolAndCollege/Image24.jpg"
+
+    ],
+    videos: [
+      "assets/products/SchoolAndCollege/Video1.mp4"
+    ],
+     nameKey: "Schools and College Boards",
+     shortKey: "Durable, professional boards for schools, colleges, and educational institutions.",
+     longKey: "Our premium school and college boards are durable, clear, and designed for classrooms, campuses, notice boards, information displays, branding, and educational signage. Available in multiple sizes, colors, materials, and finishes to meet your institution's requirements."
   }
 ];
 
