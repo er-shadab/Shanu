@@ -240,13 +240,21 @@ const productItems = [
     image: "assets/products/acrylic/Image1.jpg",
     images: [
       "assets/products/acrylic/Image1.jpg",
-      "assets/products/acrylic/Image2.jpg"
+      "assets/products/acrylic/Image2.jpg",
+      "assets/products/acrylic/Image3.jpeg",
+      "assets/products/acrylic/Image4.jpeg",
+      "assets/products/acrylic/Image5.jpeg",
+      "assets/products/acrylic/Image6.jpeg",
+      "assets/products/acrylic/Image7.jpeg",
+      "assets/products/acrylic/Image8.jpeg"
+
     ],
      videos: [
       "assets/products/acrylic/Video1.mp4",
       "assets/products/acrylic/Video2.mp4",
       "assets/products/acrylic/Video3.mp4",
-      "assets/products/acrylic/Video4.mp4"
+      "assets/products/acrylic/Video4.mp4",
+      "assets/products/acrylic/Video5.mp4"
     ],
     nameKey: "productAcrylicName",
     shortKey: "productAcrylicShort",
@@ -316,6 +324,25 @@ const productItems = [
      nameKey: "Schools and College Boards",
      shortKey: "Durable, professional boards for schools, colleges, and educational institutions.",
      longKey: "Our premium school and college boards are durable, clear, and designed for classrooms, campuses, notice boards, information displays, branding, and educational signage. Available in multiple sizes, colors, materials, and finishes to meet your institution's requirements."
+  },
+  {
+    id: "AlawwalPark",
+    image: "assets/products/AlawwalPark/Image6.jpeg",
+    images: [
+      "assets/products/AlawwalPark/Image1.jpeg",
+      "assets/products/AlawwalPark/Image2.jpeg",
+      "assets/products/AlawwalPark/Image3.jpeg",
+      "assets/products/AlawwalPark/Image4.jpeg",
+      "assets/products/AlawwalPark/Image5.jpeg",
+      "assets/products/AlawwalPark/Image6.jpeg"
+    ],
+    videos: [
+      "assets/products/AlawwalPark/Video1.mp4",
+      "assets/products/AlawwalPark/Video2.mp4"
+    ],
+     nameKey: "Saudi Al-Awwal Park",
+     shortKey: "Premium, durable, and professional signage boards for Saudi Al-Awwal Park.",
+     longKey: "Our premium boards for Saudi Al-Awwal Park are designed to deliver durability, clarity, and a professional appearance.     Ideal for stadium branding, directional signage, information displays, advertising, sponsor branding, event promotions, and    facility identification. Available in multiple sizes, colors, materials, and finishes to meet your stadium and event      requirements."
   }
 ];
 
